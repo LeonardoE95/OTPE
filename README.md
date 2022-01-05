@@ -8,6 +8,9 @@ The versatility of Emacs comes mainly from the macro system and the ability to e
 
 - [get current IPs](./snippets/get_current_ips.el)
 - [vterm_window_split](./snippets/vterm_window_split.el)
+- [txt2hex](./snippets/txt2hex.el)
+- [txt2bin](./snippets/txt2bin.el)
+- [num2bin](./snippets/num2bin.el)
 
 ## My configurations
 
