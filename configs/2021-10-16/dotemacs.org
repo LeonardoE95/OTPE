@@ -2,6 +2,11 @@
 #+AUTHOR: Leonardo Tamiano
 #+PROPERTY: header-args :tangle dotemacs.el
 
+* About
+  This configuration was showcased in the following youtube video:
+
+  [[https://www.youtube.com/watch?v=O0RwLsnccYM][Configurazione Emacs v1.6 (2021-10-16)]]
+  
 * Startup
   #+BEGIN_SRC emacs-lisp
     (setq os-packages-path "~/emacs_packages/")
